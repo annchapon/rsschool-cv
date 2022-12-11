@@ -51,3 +51,23 @@ XPGraph, 2021 - 2022
 
 **HTML Developer**\
 BelTA, 2019 - 2021
+
+## Education:
+
+**Udemy’2021**\
+Course: React-Redux - Professional Development
+
+**IT Academy’2017**\
+Course: JavaScript Advanced Level
+
+**IT Academy’2016**\
+Course: Frontend Fundamentals
+
+**Belarusian State University of Informatics and Radioelectronics’2015**\
+Qualification: IT Engineer\
+Specialty: Information Technologies in Automated Systems\
+Faculty: Information Technologies and Control
+
+## English:
+
+B1 - Intermediate

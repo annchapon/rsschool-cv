@@ -103,6 +103,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .nav-link {
@@ -212,4 +213,15 @@ a {
 
 .contacts-item.github:before {
   background-image: url("assets/svg/github.svg");
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+    padding: 10px 20px;
+  }
+
+  .nav-link {
+    line-height: 30px;
+  }
 }
